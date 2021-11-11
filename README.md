@@ -1,1 +1,1 @@
-# vue_nuxt_type
+# vue_nuxt_type test
